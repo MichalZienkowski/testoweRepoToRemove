@@ -1,3 +1,4 @@
 test1
 zmiana w test1
+zmiana w test1
 test1
